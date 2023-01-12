@@ -1,0 +1,18 @@
+[package]
+name = "clock"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "1.1"
+fltk-webview = "0.2.16"
+# fltk = "1"
+# fltk-webview = "0.2"
+
+# [profile.release]
+# overflow-checks = true
+
+# [profile.dev]
+# opt-level = 3
